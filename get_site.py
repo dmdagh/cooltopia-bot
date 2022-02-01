@@ -80,7 +80,7 @@ def main():
                     last_line = tabstr + "\n"
                     f.write(last_line)
                 elif div in title.parent.parent.parent.parent.descendants:
-                    f.write(f"{div.text}\n")
+                    f.write(f"\n{div.text}\n")
         print(f"wrote {filepath}")
 
 

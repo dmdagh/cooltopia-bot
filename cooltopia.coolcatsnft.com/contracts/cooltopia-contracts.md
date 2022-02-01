@@ -6,23 +6,36 @@
 
 ## Cool Cats Contract
 
+
 Address
+
 Etherscan
+
 Opensea
+
 0x1a92f7381b9f03921564a437210bb9396471050c
+
 ​https://etherscan.io/token/0x1a92f7381b9f03921564a437210bb9396471050c​
+
 ​https://opensea.io/collection/cool-cats-nft​
 
 ## Cool Pets Contract
 
+
 Address
+
 Etherscan
+
 Opensea
+
 Coming soon...
+
 Coming soon...
+
 Coming soon...
 
 ## Polygon Contracts
+
 
 These are all the contracts used to operate Cooltopia. More will be added as they are developed.
 | Contract Name | Contract Address |
@@ -43,5 +56,7 @@ These are all the contracts used to operate Cooltopia. More will be added as the
 | Quests | - |
 | Adventures Guild | - |
 | Adventures Guild | - |
+
 ​
+
 ​
